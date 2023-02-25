@@ -1,2 +1,2 @@
-“my second commit”
+james musyoka
 alx looks good!!!
